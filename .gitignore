@@ -109,3 +109,5 @@ temp/
 # WhatsApp session tokens
 tokens/
 *.wwebjs_auth/
+
+.vercel
