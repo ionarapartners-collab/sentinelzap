@@ -1,0 +1,43 @@
+# Arquivos de desenvolvimento
+node_modules
+.env
+.env.local
+.env.*.local
+
+# Arquivos do servidor (não necessários no frontend)
+server
+scripts
+drizzle
+patches
+
+# Arquivos de teste
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+test-*.mjs
+test-*.js
+vitest.config.ts
+
+# Arquivos de documentação
+*.md
+!README.md
+
+# Arquivos de configuração desnecessários
+.prettierrc
+.prettierignore
+tsconfig.json
+drizzle.config.ts
+
+# Scripts de instalação
+install-chromium.sh
+build-server.ts
+check-*.mjs
+list-*.mjs
+reset-*.mjs
+
+# Diretórios temporários
+.cache
+.vite
+dist/index.js
+dist/index.js.map
