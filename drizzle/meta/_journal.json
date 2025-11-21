@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763383664301,
+      "tag": "0000_yellow_orphan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763383726061,
+      "tag": "0001_ordinary_scarlet_witch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763385364916,
+      "tag": "0002_outgoing_doctor_faustus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1763386190278,
+      "tag": "0003_noisy_thunderbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1763391383993,
+      "tag": "0004_optimal_skaar",
+      "breakpoints": true
+    }
+  ]
+}
